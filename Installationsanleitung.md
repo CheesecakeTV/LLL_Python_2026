@@ -62,5 +62,8 @@ Diese Option musst du auswählen.\
 ![](assets/images/PyCharmInstallerPinToPath.png)
 4. Danach einfach weiter durchklicken, sollte selbsterklärend sein.
 
+Bei mir sah es beim ersten Programmstart so aus, kann bei dir aber abweichen:
+
+![](assets/images/2026-05-01-16-57-10.png)
 
 
