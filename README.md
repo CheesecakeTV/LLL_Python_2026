@@ -77,6 +77,18 @@ Muss ich im Kurs mitarbeiten?
 Muss ich absagen, wenn ich mal nicht dabei bin, oder zu spät komme?
 > Nein
 
+Welche Themen werden behandelt?
+> Fast alle Grundlagenthemen, danach ausgewählte fortgeschrittene Themen.
+> Die letzten Grundlagenthemen sind vermutlich Vererbung und Dunder (Magic) Methoden.
+> Diesmal wird auch viel zu Benutzeroberflächen dabei sein, da sowas dein Skript zu einem Programm macht.
+
+Welche Qualifikation hast du, um den Kurs zu halten? (Das werde ich mindestens ein Mal pro Kurs gefragt, also danke für die Gelegenheit mal ordentlich anzugeben...)
+> An der Uni habe ich im Rahmen meines Studiums ein Python-Praktikum belegt und dieses als Kursbester abgeschlossen.
+> Zusätzlich programmiere ich seit ca. 8 Jahren hobbymäßig Python, wobei ich mindestens die Grundlagen etlicher anderer Sprachen beherrsche.
+> Auf der Arbeit habe ich einige Python-Anwendungen geschrieben, um nervige Teile der Arbeit weniger nervig zu machen.
+> Diese Anwendungen werden auch von meinen nicht-Programmierer-Mitarbeitern genutzt, sie sind also robust und Idiotensicher.
+> Zusätzlich programmiere ich seit fast einem Jahr an einer großen Python-Bibliothek, mit welcher sich sehr einfach Benutzeroberflächen erstellen lassen.
+
 # Tipps, damit du den Anschluss nicht verlierst
 Ich kann inzwischen nach 2-3 Einheiten ziemlich genau vorhersagen, welche Teilnehmer den Kurs lange weitermachen und welche nicht.
 
@@ -89,8 +101,10 @@ Und trotzdem kommen wahnsinnig viele Teilnehmer spät.
 
 Wer die Einleitung verpasst, wird der restlichen Einheit deutlich schlechter folgen können, wenn überhaupt.
 
-Der Kurs beginnt sehr zuverlässig um Punkt 20:00 Uhr, auf die Minute genau.
+Der Kurs beginnt sehr zuverlässig auf die Minute genau.
 Sei also einfach 2-3 Minuten vorher schon da.
+
+Ich bin eigentlich jedes Mal bereits 10 Minuten früher da, was eine super Gelegenheit ist, übrig gebliebene Fragen zu stellen.
 
 ## "Die Übung ist einfach"
 Ich kann es nicht genug betonen, dass die Übungen unglaublich wichtig sind.
