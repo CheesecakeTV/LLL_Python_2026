@@ -1,0 +1,83 @@
+
+
+
+# X. Mutable (Veränderbare) Objekte (25 Minuten)
+Sie dir den jeweiligen Codeausschnitt an und überlege dir, was dabei auf der Konsole ausgegeben wird.
+
+**DANACH**, führe den Ausschnitt aus, um deine Antwort zu überprüfen.
+Finde eine Begründung, warum die genau das ausgegeben wird.
+
+1. 
+```py
+x = [1]
+y = x
+y.append(2)
+
+print(x)
+```
+
+2.
+```py
+x = [1]
+y = x
+y = [2]
+
+print(x)
+print(y)
+```
+
+3. 
+```py
+def foo(dieListe: list):
+    dieListe.append(2)
+    print(dieListe)
+
+x = [1]
+foo(x)
+print(x)
+```
+
+4. (Ein wirklich sehr, sehr häufiger Anfängerfehler)
+```py
+def foo(dieListe: list):
+    dieListe.append(2)
+    print(dieListe)
+
+x = [1]
+x = foo(x)
+print(x)
+```
+
+5. 
+```py
+def foo(dieListe: list = [1]):
+    dieListe.append(2)
+    print(dieListe)
+
+foo()
+foo()
+foo()
+```
+
+6.
+```py
+x = [[1]] * 5
+print(x)
+
+x[0][0] = 2 # Verändere das 0. Element der 0. Liste
+print(x)
+```
+
+7. (Knobelaufgabe)
+```py
+x = [[1]] * 5
+print(x)
+
+y = x.copy()
+
+y[0][0] = 2 # Hier wird y verändert!
+print(x)
+```
+
+
+
