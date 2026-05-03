@@ -15,7 +15,12 @@
 - in-Operator
 - len()
 
+# Strings
+- split()
+- .join()
+
 # Mutable / Immutable Objekte
+- Unterschied Liste/Tuple
 - Was bedeutet "veränderbar"?
   - Beispiel mit x = y
 - .copy()
@@ -25,5 +30,8 @@
   - Die meisten Objekte aus anderen Packages
 
 # Unpacking
-...
+- Grundlegendes Unpacking
+  - Funktionen mit mehrfacher Rückgabe
+- "Zu viele Elemente" mit Stern aufnehmen
+  - Stern bei Funktionen
 

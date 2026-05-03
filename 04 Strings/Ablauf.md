@@ -11,7 +11,3 @@
 - in - Operator bei Strings
 - f-Strings
 
-# Überleitung zu listen
-- split()
-- .join()
-
