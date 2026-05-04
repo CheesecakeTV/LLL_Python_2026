@@ -1,7 +1,7 @@
 
 # 1. Bedingungen (10 Minuten)
 
-**Nutze in diese Übung kein `if`.**
+**Nutze in dieser Übung kein `if`.**
 
 Erstelle 3 Zahlen-Variablen: x,y und z. Die Werte darfst du dir selbst aussuchen.
 
@@ -13,14 +13,14 @@ Schreibe Bedingungen, welche die folgenden Fälle prüfen und gib deren Ergebnis
 4. x ist durch y teilbar
 
 
-## Übung 3.2 (20 Minute)
+# Übung 2 (20 Minuten)
 Tipp: Du kannst das Programm mit `exit()` vom Skript aus stoppen.\
 
 Implementiere Folgendes:
 
 Der Nutzer gibt eine Ganzzahl ein.
 
-1. Falls es sich um eine negative Zahl handelt, soll `Bitte nur positive Zahlen eingaben` ausgegeben werden.
+1. Falls es sich um eine negative Zahl handelt, soll `Bitte nur positive Zahlen eingaben` ausgegeben, und das Programm beendet werden.
 
 2. Das Programm gibt alle Zahlen von 2 bis zur eingegebenen Zahl (exklusive) auf der Konsole aus.
 Wird eine 0 oder 1 eingegeben, gibt das Programm nichts aus.\

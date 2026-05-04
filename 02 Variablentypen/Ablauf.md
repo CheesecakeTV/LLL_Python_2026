@@ -8,4 +8,5 @@
 - Typecasting (str in int umwandeln, etc.)
     - type()
         - type(type(...))
+- None
 - Übung 1

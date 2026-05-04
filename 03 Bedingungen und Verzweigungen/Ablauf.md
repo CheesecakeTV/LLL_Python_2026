@@ -9,6 +9,8 @@
     - not
 - Modulo-Operation
 - Absolutwert
+- assert
+- is
 - Übung 1
 
 # Verzweigungen

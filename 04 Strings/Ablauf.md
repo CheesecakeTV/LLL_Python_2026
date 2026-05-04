@@ -10,4 +10,6 @@
 - len()
 - in - Operator bei Strings
 - f-Strings
+- Gibt keine Übungen, da mir keine hierzu eingefallen ist... Bin für Vorschläge offen
+
 

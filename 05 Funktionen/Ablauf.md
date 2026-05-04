@@ -5,6 +5,8 @@
 - Grundlegende Funktionen
 - Argumente
     - Optionale Argumente / Standardwerte
+- return
+- Lokale, globale Variablen
 - Funktionale Programmierung (Nach Grokking: Simplicity)
 - Docstrings
 
@@ -12,8 +14,6 @@
 - Typehints
     - Any
     - “oder”
-
-
-
-
+- isinstance
+- Übung 1
 
