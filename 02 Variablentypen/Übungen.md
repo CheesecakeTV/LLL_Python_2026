@@ -1,5 +1,5 @@
 
-# 1. Typen-Umwandlung (10 Minuten)
+# 1. Typen-Umwandlung (5 Minuten)
 Implementiere Folgendes:
 
 1. Der Nutzer gibt eine Zahl auf der Konsole ein.

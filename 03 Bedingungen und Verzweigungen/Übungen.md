@@ -52,7 +52,7 @@ Beispiel:
 
 5. Das Skript soll so lange wiederholt werden, bis der Nutzer nichts eingibt, also einfach nur enter drückt.
 
-6. Handelt es sich nicht um eine Primzahl, wird nachher die größte Zahl, durch welche geteilt werden kann ausgegeben.\
+6. Handelt es sich nicht um eine Primzahl, wird zusätzlich die größte Zahl, durch welche geteilt werden kann ausgegeben.\
 Beispiele:
 `8 -> 4`
 `52 -> 26`

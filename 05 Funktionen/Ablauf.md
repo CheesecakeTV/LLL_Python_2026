@@ -8,6 +8,7 @@
 - return
 - Lokale, globale Variablen
 - Funktionale Programmierung (Nach Grokking: Simplicity)
+  - Übung 2
 - Docstrings
 
 # Typehints

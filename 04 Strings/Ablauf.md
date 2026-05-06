@@ -10,6 +10,8 @@
 - len()
 - in - Operator bei Strings
 - f-Strings
+  - var=
+  - Unterstrich für Zahlen
 - Gibt keine Übungen, da mir keine hierzu eingefallen ist... Bin für Vorschläge offen
 
 

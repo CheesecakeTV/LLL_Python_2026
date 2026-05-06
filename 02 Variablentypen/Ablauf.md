@@ -5,8 +5,10 @@
     - str
     - float
     - bool
+- type()
+    - type(type(...))
+    - Welchen Typen hat `type("Hallo")(5)`
 - Typecasting (str in int umwandeln, etc.)
-    - type()
-        - type(type(...))
 - None
 - Übung 1
+

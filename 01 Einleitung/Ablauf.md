@@ -12,6 +12,9 @@
   - Immer mal wieder eine Einheit dazu, in verschiedenen Schwierigkeiten
 - Kurz auf das Repo eingehen
 
+# Übungen
+- Extreeeeeeeeeem wichtig
+
 # Vor- und Nachteile von Python
 - Sehr einfach, dafür langsam
   - Laufzeitunterschied nur bei Benchmarks merklich
