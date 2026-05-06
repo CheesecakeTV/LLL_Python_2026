@@ -1,10 +1,29 @@
 
+# 1. Grundlegendes arbeiten mit Listen (10 Minuten)
+Folgendes sei deine Einkaufsliste:
+```py
+einkaufsliste = ["Apfel", "Brot", "Milch"]
+```
+Jeder Übungsteil ERWEITERT das Skript nur.
+Vorherige Zeilen sollen nicht mehr verändert werden.
+
+1. Füge "Banane" und "Käse" hinzu.
+2. Sortiere die Liste alphabetisch
+3. Falls "Gurken" noch nicht in der Liste ist (im Code prüfen!), füge es hinzu.
+4. Gib aus, wie lang die Liste ist
+5. Dein Partner wünscht sich noch folgendes, was du in dein Skript kopierst.
+```py
+wuensche = ["Pfirsich", "Ananas", "Schokolade"]
+```
+Füge die Wünsche deiner Liste hinzu.
+6. Lösche das letzte Element deiner Liste.
+7. Gib die komplette Liste aus.
 
 
-# X. Mutable (Veränderbare) Objekte (25 Minuten)
+# 2. Mutable (Veränderbare) Objekte (20 Minuten)
 Sie dir den jeweiligen Codeausschnitt an und überlege dir, was dabei auf der Konsole ausgegeben wird.
 
-**DANACH**, führe den Ausschnitt aus, um deine Antwort zu überprüfen.
+**DANACH**, führe den jeweiligen Ausschnitt aus, um deine Antwort zu überprüfen.
 Finde eine Begründung, warum die genau das ausgegeben wird.
 
 1. 

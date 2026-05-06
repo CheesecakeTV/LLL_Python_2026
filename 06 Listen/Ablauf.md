@@ -5,6 +5,7 @@
 - Indexe aufrufen
     - Von...bis
     - Schrittweite bei Indexen
+    - Indexe bei Strings
 - Listen "Addieren"
 - Listen "Multiplizieren"
 - del
@@ -14,6 +15,7 @@
     - sorted()
 - in-Operator
 - len()
+- Übung 1
 
 # Strings
 - split()
@@ -25,6 +27,7 @@
   - Beispiel mit x = y
 - .copy()
 - Veränderbare Datentypen
+  - Sind Strings veränderbar? -> Testen
   - List, dict, set
   - Alles "selbstgemachte"
   - Die meisten Objekte aus anderen Packages
