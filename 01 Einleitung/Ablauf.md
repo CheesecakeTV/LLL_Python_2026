@@ -10,6 +10,7 @@
 - Genauer Inhalt noch nicht klar
 - Besonderes Augenmerk auf Benutzeroberflächen
   - Immer mal wieder eine Einheit dazu, in verschiedenen Schwierigkeiten
+- Kurz auf das Repo eingehen
 
 # Vor- und Nachteile von Python
 - Sehr einfach, dafür langsam
@@ -21,6 +22,7 @@
 
 # Python-Terminal
 - Wie man das Terminal öffnet
+  - Anleitung dazu im Repo
 - Einfache mathematische Operationen
   - Klammern
 - Punkt statt Komma für float
