@@ -11,11 +11,6 @@
 - attribute in der Init oder der Klasse erstellen?
 - staticmethod
 
-# Vererbung
-- "Abweichender Bauplan"
-- Motivation: `.append` bei Listen soll die Liste selbst zurückgeben
-- super
-
 # Dunder
 - https://www.pythonmorsels.com/every-dunder-method/#cheat-sheethttps://www.pythonmorsels.com/every-dunder-method/#cheat-sheet
 - Motivation
@@ -30,6 +25,13 @@
 - Einige Dunder-Attribute
   - name
   - class (so wie type(...))
+- Übung 1 Teil 1
+
+# Vererbung
+- "Abweichender Bauplan"
+- Motivation: `.append` bei Listen soll die Liste selbst zurückgeben
+- super
+- Übung 1 Teil 2
 
 # Sonstiges
 - Property
