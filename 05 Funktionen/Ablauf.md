@@ -12,9 +12,12 @@
 - Docstrings
 
 # Typehints
+- Motivation: Funktion die `str` übergeben bekommt
 - Typehints
     - Any
     - “oder”
+- Welchen Typen haben Typen?
+  - type()
 - isinstance
 - Übung 1
 

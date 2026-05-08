@@ -1,5 +1,5 @@
 
-## 1
+# 1. Grundlagen
 Implementiere Folgendes:
 
 1. Der Nutzer gibt etwas auf der Konsole ein.

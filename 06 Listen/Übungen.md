@@ -11,7 +11,7 @@ Vorherige Zeilen sollen nicht mehr verändert werden.
 2. Sortiere die Liste alphabetisch
 3. Falls "Gurken" noch nicht in der Liste ist (im Code prüfen!), füge es hinzu.
 4. Gib aus, wie lang die Liste ist
-5. Dein Partner wünscht sich noch folgendes, was du in dein Skript kopierst.
+5. Dein Partner wünscht sich auch noch Dinge, die du in dein Skript kopierst:
 ```py
 wuensche = ["Pfirsich", "Ananas", "Schokolade"]
 ```
@@ -21,10 +21,10 @@ Füge die Wünsche deiner Liste hinzu.
 
 
 # 2. Mutable (Veränderbare) Objekte (20 Minuten)
-Sie dir den jeweiligen Codeausschnitt an und überlege dir, was dabei auf der Konsole ausgegeben wird.
+Sie dir den jeweiligen Codeausschnitt an und ermittle, was dabei auf der Konsole ausgegeben wird.
 
-**DANACH**, führe den jeweiligen Ausschnitt aus, um deine Antwort zu überprüfen.
-Finde eine Begründung, warum die genau das ausgegeben wird.
+**ERST DANACH**, führe den jeweiligen Ausschnitt aus, um deine Antwort zu überprüfen.
+Finde eine Begründung, warum diese Ausgabe entsteht.
 
 1. 
 ```py

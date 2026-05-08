@@ -1,6 +1,5 @@
 
 # 1. Bedingungen (10 Minuten)
-
 **Nutze in dieser Übung kein `if`.**
 
 Erstelle 3 Zahlen-Variablen: x,y und z. Die Werte darfst du dir selbst aussuchen.
@@ -14,7 +13,7 @@ Schreibe Bedingungen, welche die folgenden Fälle prüfen und gib deren Ergebnis
 
 
 # Übung 2 (20 Minuten)
-Tipp: Du kannst das Programm mit `exit()` vom Skript aus stoppen.\
+Tipp: Du kannst das Programm jeder Zeit mit `exit()` vom Skript aus stoppen.
 
 Implementiere Folgendes:
 
