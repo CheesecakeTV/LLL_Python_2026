@@ -15,6 +15,7 @@
 - Block an Inhalt, danach Übung in Kleingruppen, oder wahlweise alleine
   - Breakout Rooms
 - Extreeeeeeeeeem wichtig
+- Mit X nummerierte Übungen
 
 # Vor- und Nachteile von Python
 - Sehr einfach, dafür "langsam"
@@ -22,6 +23,7 @@
   - Viele Verbesserungen möglich (numpy, numba, etc.)
 - "Python-Magie"
 - Wenig Sorgen um Datentypen
+  - Vor-, aber auch Nachteil
   - "Unbegrenzt große" Zahlen
 
 # Python-Terminal

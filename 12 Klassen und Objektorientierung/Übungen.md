@@ -1,4 +1,42 @@
 
+# 1. Was ist "is" (5 Minuten)
+Gegeben sei der folgende Codeausschnitt.
+Die Ausgabe der Print-Statements steht jeweils als Kommentar dahinter.
+```py
+x = [1, 2]
+y = x
+
+print(x == y)   # True
+print(x is y)   # True
+
+x = [1, 2]
+y = [1, 2]
+
+print(x == y)   # True
+print(x is y)   # False
+```
+Erkläre anhand des Codeausschnitts, was der Unterschied zwischen `==` und `is` ist.
+
+Überlege dir danach, was in folgendem Codeausschnitt ausgegeben werden sollte.
+Führe ihn danach zur Überprüfung aus.
+```py
+x = 5
+y = 5
+
+print(x == y)
+print(x is y)
+
+x += 1
+print(x == y)
+print(x is y)
+
+x -= 1
+print(x == y)
+print(x is y)
+```
+Du musst dir das Verhalten nicht erklären können.
+Nimm es nur als Beispiel für Python-Magie.
+
 
 # X. Komplettes Kapitel (45 Minuten)
 In dieser Übung erstellst du Klassen, die ich so, oder so ähnlich selbst erstellt habe und häufig nutze.

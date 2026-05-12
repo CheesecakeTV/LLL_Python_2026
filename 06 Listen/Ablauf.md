@@ -28,7 +28,7 @@
 - .copy()
 - Veränderbare Datentypen
   - Sind Strings veränderbar? -> Testen
-  - List, dict, set
+  - list, dict, set
   - Alles "selbstgemachte"
   - Die meisten Objekte aus anderen Packages
 

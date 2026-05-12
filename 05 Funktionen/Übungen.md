@@ -5,8 +5,8 @@ Implementiere folgende Funktionen.
 VERSEHE DABEI JEDE FUNKTION VOLLSTÄNDIG MIT TYPEHINTS!!! 
 
 1. `pi()`: Gibt `3.14159265359` zurück 
-2. `durchschnitt(a, b)`: Gibt den durchschnitt von a und b zurück. Den Durchschnitt berechnet man, indem man alle Elemente zusammenaddiert und durch die Anzahl an Elementen teilt.
-3. `passwortabfrage(passwort)`: Bringt den Nutzer dazu, ein Passwort auf der Konsole einzugeben (ein Versuch). Die Funktion gibt zurück, ob das Passwort korrekt (wie das übergebene Passwort) eingegeben wurde.
+2. `durchschnitt(a, b)`: Gibt den durchschnitt der Zahlen a und b zurück.
+3. `passwortabfrage(passwort)`: Fordert den Nutzer dazu auf, ein Passwort auf der Konsole einzugeben (ein Versuch). Die Funktion gibt zurück, ob das Passwort korrekt (wie das übergebene Passwort) eingegeben wurde.
 4. `umwandeln(wert, zu_type)`: Wandelt `wert` in den übergebenen Typen um. Beispiel: `umwandeln(15, float)` entspricht `float(15)` und gibt `15.0` zurück.
 
 # 2. Funktionale Programmierung (Machen wir zusammen)

@@ -39,11 +39,12 @@ Wie lange dauert eine Kurseinheit?
 
 Wird der Kurs aufgezeichnet?
 > Ja, aber nur ich bin dabei zu hören.
-> Du wirst also nicht aufgezeichnet.
+> Deine Stimme wirst also nicht aufgezeichnet.
+> Es ist jedoch möglich, dass ich dich mit deinem Discord-Pseudonym anspreche, was dann natürlich auf der Aufnahme zu hören ist.
 
 Wo finde ich die Aufnahmen?
 > Die jeweilige Aufnahme wird nicht gelistet auf YouTube "veröffentlicht".
-> Schreib mich gerne an, dann schicke ich dir den Link.
+> Schreib mich gerne an, dann schicke ich dir den Link dazu.
 > Die Aufnahme ist allerdings nur für aktive Teilnehmer des Kurses gedacht. 
 > Wenn du zu selten im Kurs bist, oder dich noch nie in irgendeiner Form beteiligt hast, sende ich dir den Link nicht.
 

@@ -10,5 +10,5 @@
     - Welchen Typen hat `type("Hallo")(5)`
 - Typecasting (str in int umwandeln, etc.)
 - None
-- Übung 1
+- Übung 1, 2
 
