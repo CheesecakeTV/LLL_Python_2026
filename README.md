@@ -4,10 +4,12 @@ Offizielles Repository für den LLL Python-Kurs in 2026.
 
 # Bevor es losgeht
 Installiere dir bitte Python und eine IDE.
-Eine Anleitung dazu ist [hier](https://github.com/CheesecakeTV/LLL_Python_2026/blob/main/Installationsanleitung.md) im GitHub Repository.
+Eine Anleitung dazu findest du [hier](https://github.com/CheesecakeTV/LLL_Python_2026/blob/main/Installationsanleitung.md) im GitHub Repository.
 
 # Termin
-Wird noch festgelegt, vermutlich jeden Donnerstag um 20:00 Uhr.
+Der Kurs findet jeden Donnerstag um 20:00 Uhr statt.
+
+Beginn ist am 21.05.2026.
 
 # FAQ 
 Ich halte den Kurs jetzt zum 5. Mal.
@@ -16,6 +18,13 @@ Scheu dich aber bitte trotzdem nicht, mir Fragen zum Kurs zu stellen.
 
 Wie kann ich am Kurs teilnehmen?
 > Komm zum entsprechenden Termin in den Discord-Kanal.
+
+Ist eine Anmeldung erforderlich?
+> Nein, hilft mir aber enorm dabei, die Themen auszulegen.
+
+Gibt es am Ende des Kurses ein Zertifikat?
+> Der Kurs ist nur inoffiziell mit der Hochschule verbunden, daher können wir leider kein offizielles Zertifikat ausstellen.
+> Du kannst dir nach dem Kurs aber definitiv in den Lebenslauf schreiben, dass du Python programmieren kannst.
 
 Wie wird der Kurs stattfinden? Auf Twitch?
 > Der Kurs wird vollständig auf Discord gehalten.
@@ -29,7 +38,8 @@ Wie lange dauert eine Kurseinheit?
 > 90 Minuten.
 
 Wird der Kurs aufgezeichnet?
-> Ja, aber deine Stimme ist dabei nicht zu hören, nur meine.
+> Ja, aber nur ich bin dabei zu hören.
+> Du wirst also nicht aufgezeichnet.
 
 Wo finde ich die Aufnahmen?
 > Die jeweilige Aufnahme wird nicht gelistet auf YouTube "veröffentlicht".
@@ -37,13 +47,9 @@ Wo finde ich die Aufnahmen?
 > Die Aufnahme ist allerdings nur für aktive Teilnehmer des Kurses gedacht. 
 > Wenn du zu selten im Kurs bist, oder dich noch nie in irgendeiner Form beteiligt hast, sende ich dir den Link nicht.
 
-Werden die Mitschriften veröffentlicht?
+Werden die Mitschriften / Lösungen veröffentlicht?
 > Ja, hier im GitHub Repository.
 > Allerdings sind die Mitschriften meistens inkohärente Codestücke, mit denen man ohne die mündliche Erklärung nichts anfangen kann.
-
-Gibt es am Ende des Kurses ein Zertifikat?
-> Leider nein, das ist aufgrund der Bürokratie dahinter nicht möglich.
-> Du kannst dir danach aber definitiv in den Lebenslauf schreiben, dass du Python programmieren kannst.
 
 Wie viele Kurseinheiten gibt es?
 > Das Ende ist erstmal offen und hängt vom Interesse der Teilnehmer ab.
@@ -75,34 +81,41 @@ Muss ich absagen, wenn ich mal nicht dabei bin, oder zu spät komme?
 > Nein
 
 Welche Themen werden behandelt?
-> Fast alle Python Grundlagenthemen, danach ausgewählte fortgeschrittene Themen.
-> Die letzten Grundlagenthemen sind vermutlich Vererbung und Dunder (Magic) Methoden.
+> Fast alle Python Grundlagenthemen, danach ausgewählte, fortgeschrittene Themen.
+> Das letzte Grundlagenthema ist Klassen/Objektorientierung.
 > Diesmal wird auch viel zu Benutzeroberflächen dabei sein.
 
+Wieso sollte man so einen Kurs besuchen, obwohl es online sehr viele Ressourcen zu Python gibt?
+> Das hat mehrere Gründe.
+> 1. Der Kurs ist kohärent. Wenn du ein Thema lernst, beherrscht du bereits die nötigen Grundlagen dafür.
+> 2. Der Kurs deckt viele wichtige Themen ab, die man im Selbststudium nicht so einfach findet.
+> Es gibt viele Themen, die als fortgeschritten gelten, obwohl sie eigentlich zu den Grundlagen gehören sollten.
+> Obwohl sie so essentiell sind, findet man sie online meist nicht, ohne konkret danach zu suchen.
+
 Welche Qualifikation hast du, um den Kurs zu halten?
-> Ich habe Python an der Uni gelernt (Hab den Kurs als bester bestanden) und seitdem sehr viel Erfahrung darin gesammelt.
-> Auf der Arbeit habe ich viele Hilfsprogramme entwickelt, die auch von den Kollegen genutzt werden.
-> Hobbymäßig entickle ich seit einem knappen Jahr eine große Python-Bibliothek, die ich bereits in fast allen meiner neuen Programme nutze.
-> Neben Python kann ich die Grundlagen etlicher anderer Sprachen, entweder durch die Uni, oder mein Hobby.
+> Ich habe Python an der Uni gelernt (Hatte von allen die höchste Punktzahl im Kurs) und seitdem sehr viel Erfahrung darin gesammelt.
+> Auf der Arbeit programmiere ich viele Hilfsprogramme, die auch von den Kollegen genutzt werden.
+> Hobbymäßig entwickle ich seit einem knappen Jahr eine große Python-Bibliothek, die ich bereits in fast allen meiner neuen Programme nutze.
+> Neben Python beherrsche ich die Grundlagen etlicher anderer Sprachen.
 
 # Tipps, damit du den Anschluss nicht verlierst
-Ich kann inzwischen nach 2-3 Einheiten ziemlich genau vorhersagen, welche Teilnehmer lange am Kurs teilnehmen und welche früh abbrechen.
+Ich kann inzwischen nach 2-3 Einheiten erschreckend genau vorhersagen, welche Teilnehmer lange am Kurs teilnehmen und welche abbrechen.
 
 Man sieht die gleichen Fehler wieder und wieder.
-Ich hoffe, dass dich diese Übersicht davon abhält, diese Fehler zu machen.
+Ich hoffe, dass dich diese Übersicht davon abhält, die gleichen Fehler zu machen.
 
 ## Zu spät kommen
 Meistens sind die ersten 5-10 Minuten jeder Einheit die Wichtigsten.
 Und trotzdem kommen viele Teilnehmer erst danach.
 
-Wer die Einleitung verpasst, wird der restlichen Einheit deutlich schlechter folgen können, wenn überhaupt.
+Wer die Einleitung zum Thema verpasst, wird das ganze Thema schlechter verstehen, wenn überhaupt.
 
-Der Kurs beginnt sehr zuverlässig, auf die Minute genau.
+Der Kurs beginnt sehr pünklich, auf die Minute genau.
 Sei also einfach 2-3 Minuten vor Beginn da.
 
 Ich bin eigentlich jedes Mal bereits 10 Minuten früher da, was eine super Gelegenheit ist, mir offen gebliebene Fragen zu stellen.
 
-Es gibt auch immer mal wieder Teilnehmer, die darum bitten, dass ich den Anfang "nochmal zusammenfasse", weil sie ihn ja verpasst haben.\
+Es gibt auch immer mal wieder Teilnehmer, die darum bitten, dass ich den Anfang "nochmal kurz wiederhole", weil sie ihn ja verpasst haben.\
 Spoiler: Das werde ich nicht tun.
 
 Stell dir einen Wecker.
@@ -110,8 +123,8 @@ Stell dir einen Wecker.
 ## "Die Übung ist zu einfach"
 Ich kann es nicht oft genug betonen, dass die Übungen unglaublich wichtig sind.
 
-Es gibt eine besondere Art von Teilnehmer, die sich die Übungen zwar anschaut, aber sie nicht macht, da sie "zu einfach" ist.
-Die Lösung ist offensichtlich, also warum den Aufwand betreiben, sie aufzuschreiben.
+Es gibt eine bestimmte Art von Teilnehmer, die sich die Übungen zwar anschaut, aber sie nicht macht, da sie "zu einfach" ist.
+"Die Lösung ist offensichtlich, also warum den Aufwand betreiben?"
 Oft sind das die Teilnehmer, die sich bereits etwas mit Python, oder anderen Sprachen auskennen.\
 Böser Fehler.
 
@@ -121,23 +134,23 @@ Solche Schwierigkeiten selbst zu entdecken ist deutlich wirkungsvoller, als sie 
 Also mach auch die einfachen Übungen, auch wenn du die Lösung bereits kennst.
 
 ## Nicht mitarbeiten / Keine Fragen stellen
-Sollte klar sein, dass das ein Fehler ist.
+Sollte klar sein, warum das problematisch ist.
 
-Wenn du Fragen für dich behältst, kann ich sie schlecht beantworten.
+Wenn du Fragen für dich behältst, kann ich sie nicht beantworten.
 Du darfst auch gerne darum bitten, eine Sache nochmal erklärt zu bekommen.
 
 ## Sich selbst ablenken
 Der Kurs umfasst abstrakte Konzepte.
 Es genügt nicht, das Erzählte zur Kenntnis zu nehmen, du musst es auch verstehen.
 
-"Du musst wissen, wie man von A nach B kommt, damit du von A nach C gelangst."
-Wenn du dir also A und B separat anschaust, entwickelst du die "Programmiererdenkweise" nicht.
+"Du musst wissen, wie man von Punkt A nach Punkt B kommt, damit du von A nach Punkt C gelangst."
+Wenn du dir also A und B separat anschaust, entwickelst du die sehr wichtige "Programmiererdenkweise" nicht.
 
 Das passiert besonders dann, wenn du nur zuhörst, aber nicht mitdenkst.
 Beispielsweise wenn du was nebenbei machst.
 
 Es sind immer wieder Teilnehmer dabei, die nebenbei am Zocken sind.
-Funktioniert einfach nicht.
+Zock gerne dein Spiel, aber dann erwarte bitte nicht, irgendwas aus dem Kurs mitzunehmen.
 
 ## Dem Kurs eine geringe Priorität geben
 Mir ist klar, dass das hier ein freiwilliger Onlinekurs ohne Klausur ist.
