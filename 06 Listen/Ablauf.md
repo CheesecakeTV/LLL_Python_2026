@@ -6,6 +6,7 @@
     - Von...bis
     - Schrittweite bei Indexen
     - Indexe bei Strings
+    - .index
 - Listen "Addieren"
 - Listen "Multiplizieren"
 - del

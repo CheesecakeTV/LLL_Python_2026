@@ -23,7 +23,7 @@
 usw...
 ```
 
-# 2. For (10 Minuten)
+# 2. For (15 Minuten)
 In dieser Übung schreibst du ein Programm, was beim Wichteln helfen soll.
 Ziel ist es, dass jeder Person nachher ein zufälliger Wichtel zugeordnet wird.
 
@@ -44,7 +44,7 @@ Ben - Martin
 Carla - Mira
 ```
 
-3. Wandle dein Skript in zwei Funktionen um: `getPartner` und `printPartner`.\
+3. Wandle dein bisheriges Skript in zwei Funktionen um: `getPartner` und `printPartner`.\
 `getPartner` erstellt zu einer übergebenen Liste die partner-Liste.\
 `printPartner` erstellt aus zwei übergebenen Listen die ordentliche Ausgabe.\
 Überlege dir jeweils gut, welche Parameter/Rückgaben die Funktionen haben.
@@ -52,7 +52,8 @@ Denk auch an die Typehints.
 
 4. Bei dieser Art der Zuteilung fällt dir vermutlich ein Problem auf:
 Es ist möglich, dass eine Person sich selbst zieht.
-Löse, oder umgehe das Problem.
-
+Löse, oder umgehe das Problem.\
+Tipp: Mir fallen dazu 4 verschiedene Lösungen ein. Eine davon ist super einfach zu implementieren, aber darauf muss man erstmal kommen.\
+Weiterer Tipp: Um ein einzelnes, zufälliges Element aus einer Liste zu wählen, nutze `random.choice(dieListe)`.
 
 

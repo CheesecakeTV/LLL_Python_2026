@@ -13,8 +13,10 @@
   - with_stem, with_suffix
 - parent
 - mkdir
+- Übung 1
 
 # json
 - dumps, loads
 - indentation
+- Übung 2
 
