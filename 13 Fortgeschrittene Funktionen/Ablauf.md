@@ -20,6 +20,11 @@
 - "Decorator-Erzeuger" (Decorators mit Argumenten)
 - Übung 2
 
+# Anwendung bei Listen
+- map
+- filter
+- sort
+
 # Sonstiges
 - (Polymorphismus)
 
