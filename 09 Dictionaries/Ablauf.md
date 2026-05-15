@@ -14,6 +14,12 @@
   - Auch in Funktionen
 - dictionary comprehension
 
+# Dataclasses
+- Warum lernen wir das vor Klassen?
+- Motivation
+- Einfache Dataclasses
+- Typehinting
+- frozen
 
 
 

@@ -8,6 +8,9 @@
 - return
 - Lokale, globale Variablen
 - Funktionale Programmierung (Nach Grokking: Simplicity)
+  - Implizite Ein-/Ausgaben
+  - Calculation: Gleiche Eingabe führt zur gleichen Ausgabe, keine impliziten Rückgaben
+  - Abstraktion und wann es sinnvoll ist zu abstrahieren
   - Übung 2
 - Docstrings
 
