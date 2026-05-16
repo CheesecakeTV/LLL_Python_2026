@@ -8,6 +8,7 @@
 - return
 - Lokale, globale Variablen
 - Funktionale Programmierung (Nach Grokking: Simplicity)
+  - Motivation: Skalierbarkeit, Änderungen an möglichst wenig Stellen
   - Implizite Ein-/Ausgaben
   - Calculation: Gleiche Eingabe führt zur gleichen Ausgabe, keine impliziten Rückgaben
   - Abstraktion und wann es sinnvoll ist zu abstrahieren

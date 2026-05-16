@@ -4,6 +4,7 @@
 - bytes
   - Bytes lesen/schreiben
 - os.listdir
+- Übung 1
 
 # pathlib
 - Path zusammenfügen mit `/`
@@ -13,10 +14,10 @@
   - with_stem, with_suffix
 - parent
 - mkdir
-- Übung 1
+- Übung 2
 
 # json
 - dumps, loads
 - indentation
-- Übung 2
+- Übung 3
 

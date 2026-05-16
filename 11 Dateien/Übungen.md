@@ -1,5 +1,12 @@
 
-# 1. Grundlegende Nutzung von Dateien (10 Minuten)
+# 1. Grundlegende Nutzung von Dateien Teil 1 (10 Minuten)
+Die Datei `Werte.txt` (Im Ordner für Materialien) enthält einige Zahlen.
+
+Bestimme den Durchschnitt aller Zahlen, indem du diese aufaddierst und durch die Anzahl der Zahlen teilst.
+
+Veränderd dabei nicht die Datei.
+
+# 2. Grundlegende Nutzung von Dateien Teil 2 (10 Minuten)
 Lade dir die Datei `Namenliste.txt` herunter.
 
 Beantworte folgende Fragen darüber, OHNE DIE DATEI VON HAND AUSZULESEN (Also nur in deinem Python-Skript arbeiten).
