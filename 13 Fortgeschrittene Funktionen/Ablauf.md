@@ -15,15 +15,16 @@
 - Closure
   - nonlocal
 
-# Decorators
-- Motivation: Funktionen modifizieren
-- "Decorator-Erzeuger" (Decorators mit Argumenten)
-- Übung 2
-
 # Anwendung bei Listen
 - map
 - filter
 - sort
+- Übung 2
+
+# Decorators
+- Motivation: Funktionen modifizieren
+- "Decorator-Erzeuger" (Decorators mit Argumenten)
+- Übung 3
 
 # Sonstiges
 - (Polymorphismus)

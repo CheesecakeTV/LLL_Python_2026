@@ -1,4 +1,5 @@
 
+
 # 1. Generators (15 Minuten)
 Implementiere UND TESTE folgende Generators.
 Tipp: Oft kannst du bereits implementierte Generator nutzen, um einen neuen zu erstellen.
@@ -11,7 +12,16 @@ Tipp: Oft kannst du bereits implementierte Generator nutzen, um einen neuen zu e
 6. `begrenzen(iterator: Iterable, max_val: int)`: Gibt die Werte des übergebenen Iterables zurück. Übersteigt ein Rückgabewert `max_val`, wird der Generator beendet.
 7. `primzahlen()`: Gibt alle Primzahlen zurück.
 
-# 2. Decorators (15 Minuten)
+# 2. Funktionen als Objekte, Generators (10 Minuten)
+Die Funktion `map(f: Callable, obj: Iterable)` wendet die übergebene Funktion `f` auf jedes einzelne Element in `obj` an.
+
+Du darfst `map` in diese Übung nicht verwenden.
+
+1. Schreibe die Funktion `mapListe(f: Callable, dieListe: list) -> list`. 
+Sie funktioniert wie `map`, gibt allerdings eine Liste mit den Funktionsrückgaben zurück.
+2. Schreibe die Funktion `mapGen(f: Callable, obj: Iterable) -> Generator[Any, None, None]`, welche genauso funktioniert, die Funktionsrückgaben jedoch als Generator bereitstellt. Das ist quasi genauso wie die tatsächliche `map`-Funktion.
+
+# 3. Decorators (15 Minuten)
 Implementiere UND TESTE folgende Decorator.\
 Wichtig: Denke dabei daran, dass viele Funktionen sowohl Parameter, als auch Rückgaben haben.
 1. Bei jedem Funktionsaufruf wird ausgegeben, dass eine Funktion aufgerufen wird.
@@ -25,5 +35,6 @@ Wichtig: Denke dabei daran, dass viele Funktionen sowohl Parameter, als auch Rü
 def foo(...):
     ...
 ```
+
 
 
