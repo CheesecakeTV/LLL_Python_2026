@@ -108,58 +108,58 @@ Ich hoffe, dass dich diese Übersicht davon abhält, die gleichen Fehler zu mach
 ## Zu spät kommen
 Meistens sind die ersten 5-10 Minuten jeder Einheit die Wichtigsten.
 Und trotzdem kommen viele Teilnehmer erst danach.
-
 Wer die Einleitung zum Thema verpasst, wird das ganze Thema schlechter verstehen, wenn überhaupt.
 
-Der Kurs beginnt sehr pünklich, auf die Minute genau.
+Der Kurs beginnt sehr pünktlich, meistens auf die Minute genau.
 Sei also einfach 2-3 Minuten vor Beginn da.
 
 Ich bin eigentlich jedes Mal bereits 10 Minuten früher da, was eine super Gelegenheit ist, mir offen gebliebene Fragen zu stellen.
 
-Es gibt auch immer mal wieder Teilnehmer, die darum bitten, dass ich den Anfang "nochmal kurz wiederhole", weil sie ihn ja verpasst haben.\
-Spoiler: Das werde ich nicht tun.
+Es gibt auch immer mal wieder Teilnehmer, die zu spät kommen und dann darum bitten, dass ich den Anfang "nochmal kurz wiederhole".
+Das werde ich dieses Mal nicht tun.
 
-Stell dir einen Wecker.
+Stell dir einfach einen Wecker, so mach ich es auch.
 
 ## "Die Übung ist zu einfach"
-Ich kann es nicht oft genug betonen, dass die Übungen unglaublich wichtig sind.
+Ich kann nicht oft genug sagen wie wichtig die Übungen sind.
 
 Es gibt eine bestimmte Art von Teilnehmer, die sich die Übungen zwar anschaut, aber sie nicht macht, da sie "zu einfach" ist.
-"Die Lösung ist offensichtlich, also warum den Aufwand betreiben?"
-Oft sind das die Teilnehmer, die sich bereits etwas mit Python, oder anderen Sprachen auskennen.\
+"Die Lösung ist offensichtlich, also warum den Aufwand betreiben?"\
 Böser Fehler.
 
+Oft sind das die Teilnehmer, die sich bereits etwas mit Python, oder anderen Sprachen auskennen.
+
 Die Übungen umfassen oft __versteckte__ Schwierigkeiten.
-Solche Schwierigkeiten selbst zu entdecken ist deutlich wirkungsvoller, als sie sich nachher zeigen zu lassen.
+Solche Schwierigkeiten selbst zu entdecken, ist deutlich wirkungsvoller, als sie sich nachher zeigen zu lassen.
 
 Also mach auch die einfachen Übungen, auch wenn du die Lösung bereits kennst.
+Wenn dem wirklich so ist, wirst du doch eh nur 2 Minuten dafür brauchen.
 
 ## Nicht mitarbeiten / Keine Fragen stellen
-Sollte klar sein, warum das problematisch ist.
+Sollte klar sein, warum das ein Fehler ist.
 
 Wenn du Fragen für dich behältst, kann ich sie nicht beantworten.
 Du darfst auch gerne darum bitten, eine Sache nochmal erklärt zu bekommen.
 
+Ich stelle auch immer mal wieder Fragen an alle Teilnehmer.
+Versuch diese Fragen selbst zu beantworten.
+Das hält wach/konzentriert.
+
 ## Sich selbst ablenken
-Der Kurs umfasst abstrakte Konzepte.
-Es genügt nicht, das Erzählte zur Kenntnis zu nehmen, du musst es auch verstehen.
+Du lernst hier programmieren.
+Programmieren ist Denksport.
 
-"Du musst wissen, wie man von Punkt A nach Punkt B kommt, damit du von A nach Punkt C gelangst."
-Wenn du dir also A und B separat anschaust, entwickelst du die sehr wichtige "Programmiererdenkweise" nicht.
+Stell dir mal vor, du würdest im Sport 2 Übungen gleichzeitig machen.
+Das funktioniert sicherlich irgendwie, aber du wirst beide Übungen minimal schlechter machen.
 
-Das passiert besonders dann, wenn du nur zuhörst, aber nicht mitdenkst.
-Beispielsweise wenn du was nebenbei machst.
+Also lenk dich nicht selbst ab.
+Und wenn es nicht anders geht, nimm irgendwas, was keine Aufmerksamkeit erfordert.
 
-Es sind immer wieder Teilnehmer dabei, die nebenbei am Zocken sind.
-Zock gerne dein Spiel, aber dann erwarte bitte nicht, irgendwas aus dem Kurs mitzunehmen.
+Es sind anfangs immer wieder Teilnehmer dabei, die nebenbei am Zocken sind.
+So kann man leider nicht erwarten, irgendwas im Kurs zu lernen.
 
 ## Dem Kurs eine geringe Priorität geben
 Mir ist klar, dass das hier ein freiwilliger Onlinekurs ohne Klausur ist.
 
 Trotzdem solltest du zumindest ein bisschen darauf achten, dir den Termin dafür freizuhalten.
-
-Mir hat mal ein Teilnehmer sowas geschrieben wie: "Ich bin heute erst 30 Minuten später dabei, da ich noch nichts gegessen habe".\
-Wenn er das hier liest, kann er mir vielleicht mal erklären, wieso man deswegen 30 Minuten zu spät kommen muss, anstatt sich einfach kurz ein Brot zur Überbrückung zu machen...
-
-
 
