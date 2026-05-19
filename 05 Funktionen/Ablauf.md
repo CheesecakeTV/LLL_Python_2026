@@ -10,7 +10,9 @@
 - Funktionale Programmierung (Nach Grokking: Simplicity)
   - Motivation: Skalierbarkeit, Änderungen an möglichst wenig Stellen
   - Implizite Ein-/Ausgaben
-  - Calculation: Gleiche Eingabe führt zur gleichen Ausgabe, keine impliziten Rückgaben
+  - Kalkulation: Gleiche Eingabe führt zur gleichen Ausgabe, keine impliziten Rückgaben
+    - Nicht unbedingt eine Berechnung
+    - Ansonsten Aktion
   - Abstraktion und wann es sinnvoll ist zu abstrahieren
   - Übung 2
 - Docstrings

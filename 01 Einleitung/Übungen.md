@@ -14,3 +14,4 @@ Untersuche, was das für einen Einfluss hat, indem du folgendes für `input()` e
 "hallo"
 "                      Hallo  "
 ```
+Was macht `.strip()`?

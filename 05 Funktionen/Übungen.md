@@ -1,6 +1,7 @@
 
 # 1. Grundlegende Funktionen (10 Minuten)
-Die Teilaufgaben sind unabhängig voneinander lösbar.\
+Die Teilaufgaben sind unabhängig voneinander lösbar.
+
 Implementiere folgende Funktionen.
 VERSEHE DABEI JEDE FUNKTION VOLLSTÄNDIG MIT TYPEHINTS!!! 
 
@@ -25,6 +26,9 @@ def getEingabe(text: str) -> str:
 def gibAus(text: str) -> None:
     print(text)
 
+def gibNutzernamenAus() -> None:
+    print(_nutzername)
+
 def login(passwort: str = _passwort) -> bool:
     return getEingabe("Bitte Passwort eingeben ") == passwort
 
@@ -36,8 +40,6 @@ def istNutzerGeborenVor(jahr: int) -> bool:
 ```
 
 # X. Vor falscher Übergabe schützen (10 Minuten)
-Halte dich nicht zu lange mit einzelnen Teilen dieser Übung auf.
-
 Kopiere folgende Funktion:
 ```py
 def istTeilbar(zahl: int, durch: int) -> bool:

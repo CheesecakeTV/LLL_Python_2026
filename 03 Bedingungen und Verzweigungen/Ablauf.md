@@ -10,9 +10,9 @@
     - not
     - Klammern
 - Modulo-Operation
-- Absolutwert (von Zahlen)
 - assert
-- is
+- is None, ohne Begründung
+- Absolutwert (von Zahlen)
 - Übung 1
 
 # Verzweigungen

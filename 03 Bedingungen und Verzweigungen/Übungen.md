@@ -19,7 +19,7 @@ Implementiere Folgendes:
 
 Der Nutzer gibt eine Ganzzahl ein.
 
-1. Falls es sich um eine negative Zahl handelt, soll `Bitte nur positive Zahlen eingaben` ausgegeben, und das Programm beendet werden.
+1. Falls es sich um eine negative Zahl handelt, soll `Bitte nur positive Zahlen eingeben` ausgegeben, und das Programm beendet werden.
 
 2. Das Programm gibt alle Zahlen von 2 bis zur eingegebenen Zahl (exklusive) auf der Konsole aus.
 Wird eine 0 oder 1 eingegeben, gibt das Programm nichts aus.\
