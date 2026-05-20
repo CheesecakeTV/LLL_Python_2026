@@ -12,14 +12,15 @@ Tipp: Oft kannst du bereits implementierte Generator nutzen, um einen neuen zu e
 6. `begrenzen(iterator: Iterable, max_val: int)`: Gibt die Werte des übergebenen Iterables zurück. Übersteigt ein Rückgabewert `max_val`, wird der Generator beendet.
 7. `primzahlen()`: Gibt alle Primzahlen zurück.
 
-# 2. Funktionen als Objekte, Generators (10 Minuten)
-Die Funktion `map(f: Callable, obj: Iterable)` wendet die übergebene Funktion `f` auf jedes einzelne Element in `obj` an.
+# 2. Funktionen als Objekte, Generators (20 Minuten)
+In dieser Übung programmieren wir einige bereits vorhandene Funktionen nochmal.
+Du darfst natürlich die jeweils nachprogrammierte Funktion nicht nutzen, sonst wäre die ganze Geschichte ziemlich witzlos.
 
-Du darfst `map` in diese Übung nicht verwenden.
-
-1. Schreibe die Funktion `mapListe(f: Callable, dieListe: list) -> list`. 
-Sie funktioniert wie `map`, gibt allerdings eine Liste mit den Funktionsrückgaben zurück.
-2. Schreibe die Funktion `mapGen(f: Callable, obj: Iterable) -> Generator[Any, None, None]`, welche genauso funktioniert, die Funktionsrückgaben jedoch als Generator bereitstellt. Das ist quasi genauso wie die tatsächliche `map`-Funktion.
+1. Implementiere `mapGen(f: Callable, obj: Iterable) -> Generator[Any, None, None]`, die genau das Gleiche macht wie `map`.
+2. Implementiere `filterGen(f: Callable, obj: Iterable) -> Generator[Any, None, None]`, die genau das Gleiche macht wie `filter`.
+3. Implementiere `enumerateGen`, die genau das Gleiche macht wie rate mal.
+4. Implementiere `zipGen`.
+5. Implementiere `enumerateZipGen`, was die Funktionalitäten von `enumerateGen` und `zipGen` vereint.
 
 # 3. Decorators (15 Minuten)
 Implementiere UND TESTE folgende Decorator.\

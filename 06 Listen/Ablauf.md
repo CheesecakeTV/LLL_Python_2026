@@ -27,6 +27,7 @@
 - Was bedeutet "veränderbar"?
   - Beispiel mit x = y
 - .copy()
+- An Teilnehmer mit Vorkentnissen: Welche Datentypen werden als Referenz übergeben?
 - Veränderbare Datentypen
   - Sind Strings veränderbar? -> Testen
   - list, dict, set
