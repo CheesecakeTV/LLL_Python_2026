@@ -1,5 +1,5 @@
 
-# 1. Bedingungen (10 Minuten)
+# 1. Bedingungen (5 Minuten)
 **Nutze in dieser Übung kein `if`.**
 
 Erstelle 3 Zahlen-Variablen: x,y und z. Die Werte darfst du dir selbst aussuchen.

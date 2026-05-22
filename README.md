@@ -160,6 +160,5 @@ So kann man leider nicht erwarten, irgendwas im Kurs zu lernen.
 
 ## Dem Kurs eine geringe Priorität geben
 Mir ist klar, dass das hier ein freiwilliger Onlinekurs ohne Klausur ist.
-
 Trotzdem solltest du zumindest ein bisschen darauf achten, dir den Termin dafür freizuhalten.
 

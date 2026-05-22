@@ -7,6 +7,7 @@
 - "Rechnen" mit Strings
 - replace()
 - upper(), lower(), casefold()
+  - Ideen für Verwendungszwecke?
 - len()
 - in - Operator bei Strings
 - f-Strings
