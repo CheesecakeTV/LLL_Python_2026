@@ -22,9 +22,7 @@
 - Test, ob Variable einen Wert hat mit bool()
   - `if variable`
 - pass
+    - ... (Für Sachen die man noch machen will)
 - while-Schleifen (Wichtig für Übung)
 - Übung 2
-
-# Match-Case
-- Grundlegendes Match-Case
 

@@ -2,15 +2,17 @@
 # 1. Bedingungen (5 Minuten)
 **Nutze in dieser Übung kein `if`.**
 
-Erstelle 3 Zahlen-Variablen: x,y und z. Die Werte darfst du dir selbst aussuchen.
+Erstelle 3 `int`-Variablen: x,y und z. Die Werte darfst du dir selbst aussuchen.
 
-Schreibe Bedingungen, welche die folgenden Fälle prüfen und gib deren Ergebnis auf der Konsole aus. 
+Schreibe Bedingungen, welche die folgenden Fälle prüfen und gib deren Ergebnis auf der Konsole aus (immernoch kein `if`!!!).
+Kürzere Lösungen bekommen Zusatzpunkte.
 
-1. x ist größer als y.
-2. x ist größer als y und kleiner als z.
-3. x ist größer als y, oder x ist kleiner als y
-4. x ist durch y teilbar
-
+1. x ist größer als y
+2. x ist größer als y und kleiner als z
+3. x ist durch y teilbar
+4. x ist größer als y, oder x ist kleiner als y
+5. x ist nicht gleich 0
+6. x ist um maximal 5 zum Wert von y unterschiedlich
 
 # Übung 2 (20 Minuten)
 Tipp: Du kannst das Programm jeder Zeit mit `exit()` vom Skript aus stoppen.
