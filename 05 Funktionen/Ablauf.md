@@ -27,3 +27,11 @@
 - isinstance
 - Übung 1
 
+# Rekursion
+- Motivation
+  - Teil des Problems ist das gleiche Problem
+- Aufbau
+  - Verankerung
+  - Rekursionsschritt
+- Übung 3
+

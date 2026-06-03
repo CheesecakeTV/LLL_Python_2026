@@ -39,6 +39,25 @@ def istNutzerGeborenVor(jahr: int) -> bool:
     return vermuteGeburtsjahr(_alter) < jahr
 ```
 
+# 3. Rekursion (5 Minuten)
+Löse diese Übung nur in Pseudocode!
+Eine tatsächliche Implementierung ist nicht nötig.
+
+Wir betrachten das Spiel Minesweeper.
+Ein Spiel besteht aus einem Rechteck an Feldern, die zu beginn unaufgedeckt sind.
+Jedes Feld hat einen Wert von 0 bis 8.
+
+Wird ein Feld mit dem Wert 0 aufgedeckt, werden alle zusammenhängenden Felder mit Wert 0 und deren Nachbarn aufgedeckt.
+
+Ein einzelnes Aufdecken könnte beispielsweise zu folgender Situation führen:\
+![](../assets/images/2026-06-03-13-40-52.png)
+
+Überlege dir in Pseudocode, wie die Funktion `aufdecken(feld)` aussehen könnte.
+
+Falls du Informationen über ein Felder brauchst, denk dir einfach eine entsprechende Funktion aus und tu so, als ob sie existieren würde.
+Z.B.: `wertVon(feld)`.
+
+
 # X. Vor falscher Übergabe schützen (10 Minuten)
 Kopiere folgende Funktion:
 ```py
