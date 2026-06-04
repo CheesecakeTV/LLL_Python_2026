@@ -14,6 +14,7 @@
     - Nicht unbedingt eine Berechnung
     - Ansonsten Aktion
   - Abstraktion und wann es sinnvoll ist zu abstrahieren
+  - Stand 04.06.2026, Einheit 3
   - Übung 2
 - Docstrings
 

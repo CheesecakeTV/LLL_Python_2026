@@ -1,19 +1,35 @@
 
 
-x = int(input("Gib eine Ganzzahl ein: ").strip())
+while True:
+    x = input("Gib eine Ganzzahl ein: ").strip()
 
-# 1.
-if x < 0:
-    print("Bitte nur positive Zahlen eingeben")
-    exit()
-if x < 2:
-    exit()
+    if not x:
+        exit()
 
-# 2. + 3.
-i = 2
-while x > i:
-    print(i, x % i == 0)
-    i = i + 1
+    x = int(x)
 
+    if x < 0:
+        print("Bitte nur positive Zahlen eingeben")
+        exit()
+    if x < 2:
+        exit()
+
+    i = 2
+    #grossterTeile = None
+    grossterTeile = 1
+    while x > i:
+        teilbar = x % i == 0
+        print(i, teilbar)
+
+        if teilbar:
+            grossterTeile = i
+
+        i = i + 1
+
+    #if grossterTeile is None:
+    if grossterTeile == 1:
+        print("Die Zahl ist eine Primzahl")
+    else:
+        print("Teilbar durch:", grossterTeile)
 
 

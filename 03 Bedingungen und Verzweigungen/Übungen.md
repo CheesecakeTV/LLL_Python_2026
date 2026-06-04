@@ -49,7 +49,7 @@ Beispiel:
     ```
 
 4. Falls es sich um eine Primzahl handelt, soll `Die Zahl ist eine Primzahl` ausgegeben werden.\
-(Eine Primzahl ist ausschließlich durch 1 und sich selbst teilbar, also hinter jeder Ausgabe von 3. muss “Nein” stehen)
+(Eine Primzahl ist ausschließlich durch 1 und sich selbst teilbar, also hinter jeder Ausgabe von 3. muss `False` stehen)
 
 5. Das Skript soll so lange wiederholt werden, bis der Nutzer nichts eingibt, also einfach nur enter drückt.
 
