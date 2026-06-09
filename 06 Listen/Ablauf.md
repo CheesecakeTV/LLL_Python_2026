@@ -7,13 +7,16 @@
     - Schrittweite bei Indexen
     - Indexe bei Strings
     - .index
+    - Listen in Listen
 - Listen "Addieren"
 - Listen "Multiplizieren"
 - del
 - Element appendieren
     - Häufiger Fehler: Liste an Liste appendieren
+      - Extend
 - sort()
-    - sorted()
+  - Aktion oder Kalkulation?
+  - sorted()
 - in-Operator
 - len()
 - Übung 1

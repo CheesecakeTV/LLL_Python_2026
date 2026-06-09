@@ -34,5 +34,6 @@
 - Aufbau
   - Verankerung
   - Rekursionsschritt
+  - Beispiel: Fibonacci
 - Übung 3
 

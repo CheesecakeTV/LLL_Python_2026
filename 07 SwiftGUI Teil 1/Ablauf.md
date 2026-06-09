@@ -21,6 +21,8 @@
 - default events
 - key-functions
 - bind_event
+  - sg.Event
+- Übung 1
 
 # Werte
 - Werte von keyed Elementen
