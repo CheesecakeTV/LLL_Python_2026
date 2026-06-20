@@ -5,7 +5,7 @@ Folgendes sei deine Einkaufsliste:
 einkaufsliste = ["Apfel", "Brot", "Milch"]
 ```
 Jeder Übungsteil ERWEITERT das Skript nur.
-Vorherige Zeilen sollen nicht mehr verändert werden.
+__Vorherige Zeilen sollen in folgenden Teilen nicht verändert werden.__
 
 1. Füge "Banane" und "Käse" hinzu.
 2. Sortiere die Liste alphabetisch

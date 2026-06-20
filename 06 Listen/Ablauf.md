@@ -36,6 +36,8 @@
   - list, dict, set
   - Alles "selbstgemachte"
   - Die meisten Objekte aus anderen Packages
+- Typehinting mit Tupels
+- Übung 2 (In Abschnitten zusammen lösen?)
 
 # Unpacking
 - Grundlegendes Unpacking
