@@ -19,5 +19,5 @@
 # json
 - dumps, loads
 - indentation
-- Übung 3
+- Übung 3 (Gut als Hausaufgabe geeignet)
 

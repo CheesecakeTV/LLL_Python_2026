@@ -20,6 +20,16 @@ Danach:
 
 4. Sortiere die Liste alphabetisch (nach den Vornamen) und speichere sie als `NamenlisteSortiert.txt` in der gleichen Form ab.
 
+# 3. Sinnvolles Auslesen von Daten (25 Minuten)
+Irgendein Programm hat `Data.json` generiert, was du im GibHub unter Materialien findest.
 
+Ich gebe bei dieser Übung keinen wirklichen Ablauf vor, sondern nur das Ergebnis.
+Du darfst die Übung lösen wie du willst, was natürlich cool ist, aber auch gefährlich.
+Überlege dir auf jeden Fall vorher grob, wie du `2.` und `3.` lösen willst.
 
+1. Erstelle den Datentypen `Person`, welcher zu den Daten passt.
+2. Erstelle die Funktion `lese_data_json`, welche diese Art von Datei ausliest.
+Zurückgegeben wird ein Dict, welches den jeweiligen Namen als Key hat und `Person`-Objekte als Values.
+3. Erstelle die Funktion `schreibe_data_json`, welche genau das Gegenteil macht.
+Sie bekommt also ein Objekt, wie es von `lese_data_json` erstellt wurde und schreibt es in eine Datei, die vom Aufbau her `Data.json` entspricht.
 
