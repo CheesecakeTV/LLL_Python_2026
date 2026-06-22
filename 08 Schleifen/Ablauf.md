@@ -7,11 +7,13 @@
 # for
 - Grundlagen
 - range()
-    - Typecasten in eine Liste
+  - Wie viel RAM verbraucht `range(1000000000000)`?
+  - Typecasten in eine Liste
 - zip()
 - enumerate()
 - List Comprehension: Einzeilige for-Schleifen zum Erstellen einer Liste
 - Unterstrich als Variablenname
 - Übungen 1, 2
+
 
 

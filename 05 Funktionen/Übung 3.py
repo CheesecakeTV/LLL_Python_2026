@@ -13,4 +13,3 @@ def aufdecken(feld):
         aufdecken(nachbarfeld)
 
 
-

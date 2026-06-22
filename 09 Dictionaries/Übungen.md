@@ -40,7 +40,7 @@ class Person:
 ```
 
 1. Erstelle die Liste `alle_personen`.
-Füge der Liste folgende fiktive Personen hinzu:
+Füge der Liste folgende fiktive Personen hinzu (Denk dir ruhig eigene Namen aus, ist mir egal):
 ```
 Taylor Chavez, 53
 Linda Shannon, 25
