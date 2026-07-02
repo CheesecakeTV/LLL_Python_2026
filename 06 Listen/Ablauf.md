@@ -45,4 +45,4 @@
   - Funktionen mit mehrfacher Rückgabe
 - "Zu viele Elemente" mit Stern aufnehmen
   - Stern bei Funktionen
-
+- Stand 02.07.2026, Einheit 6

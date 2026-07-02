@@ -1,8 +1,9 @@
 
-a = [1]
-
-x = [a] * 5
+x = [[1]] * 5
 print(x)
 
-x[0][0] = 2 # Verändere das 0. Element der 0. Liste
+y = x.copy()
+
+y[0][0] = 2 # Hier wird y verändert!
 print(x)
+
