@@ -2,12 +2,10 @@
 # Einleitung SwiftGUI
 - Warum Benutzeroberflächen?
   - Verschiedene Auswahlmöglichkeiten (Knopfmenü)
-
 - Package installieren
 - Package importieren
 - Theme nutzen
 - Vorschau über alle Themes
-
 - Layout aufbauen
 - Layout-Elemente
   - Preview_all_elements
