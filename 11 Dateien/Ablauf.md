@@ -3,6 +3,7 @@
 - Lesen und schreiben mit Kontext-Manager
 - bytes
   - Bytes lesen/schreiben
+    - Warum sollte man das tun? (Dateitypen)
 - os.listdir
 - Übung 1
 

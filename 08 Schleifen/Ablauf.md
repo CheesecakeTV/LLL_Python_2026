@@ -9,6 +9,7 @@
 - range()
   - Wie viel RAM verbraucht `range(1000000000000)`?
   - Typecasten in eine Liste
+- Unpacking (Liste von listen iterieren)
 - zip()
 - enumerate()
 - List Comprehension: Einzeilige for-Schleifen zum Erstellen einer Liste

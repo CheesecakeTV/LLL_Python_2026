@@ -9,4 +9,7 @@
   - Mehrere Exceptions auf einmal (Verschiedene Klassen angeben)
   - Mehrere except-blöcke
 - finally
+  - Warum sollte man das überhaupt verwenden?
 - Übung 1
+
+

@@ -9,5 +9,5 @@ Ansonsten wiederholt sich die Aufforderung.
 2. Erstelle die Funktion `type_input(derTyp: type)`.
 Sie funktioniert genau wie `int_input`, erwartet aber eine Eingabe, die zum übergebenen Typen passt.
 
-3. Schreibe `int_input` so um, dass du keinen kopierten Code hast.
+3. Schreibe `int_input` so um, dass durch den vorherigen Übungsteil kein kopierter Code enthalten ist.
 

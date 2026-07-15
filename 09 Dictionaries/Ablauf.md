@@ -15,7 +15,7 @@
 - Doppelstern zum Dictionary-Unpacking
   - Auch in Funktionen
 - dictionary comprehension
-- Übung 1 (Existiert noch nicht)
+- Übung 1
 
 # Dataclasses
 - Warum lernen wir das vor Klassen?

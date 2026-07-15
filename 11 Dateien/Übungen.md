@@ -6,19 +6,16 @@ Bestimme den Durchschnitt aller Zahlen, indem du diese aufaddierst und durch die
 
 Veränderd dabei nicht die Datei.
 
-# 2. Grundlegende Nutzung von Dateien Teil 2 (10 Minuten)
-Lade dir die Datei `Namenliste.txt` herunter.
+# 2. Verschiedenes (15 Minuten)
+Lade dir aus den Materialien `Ordner.zip` herunter.
+Die Zip-Datei enthält einen Ordner mit vielen kleinen Dateien.
 
-Beantworte folgende Fragen darüber, OHNE DIE DATEI VON HAND AUSZULESEN (Also nur in deinem Python-Skript arbeiten).
-"Vorname" bedeutet einfach, das erste Wort des vollen Namens.
-Machs nicht zu kompliziert bitte.
-1. Wie ist die Datei aufgebaut? Was enthält sie?
-2. Welche Vornamen beginnen mit dem Buchstaben `X`?
-3. Wie viele Vornamen beginnen mit `A`?
+Die Dateinamen bestehen aus einer Zufallszahl, dem Wort `Datei` und dem "index" der Datei.
+Eigentlich sollte aber der index vorne stehen und die Zufallszahl hinten.
 
-Danach:
+Falsch ist also `105663 Datei 001.txt`, korrekt wäre `001 Datei 105663.txt`.
 
-4. Sortiere die Liste alphabetisch (nach den Vornamen) und speichere sie als `NamenlisteSortiert.txt` in der gleichen Form ab.
+Korrigiere den Fehler für alle Dateien.
 
 # 3. Sinnvolles Auslesen von Daten (25 Minuten)
 Irgendein Programm hat `Data.json` generiert, was du im GibHub unter Materialien findest.
@@ -33,3 +30,16 @@ Zurückgegeben wird ein Dict, welches den jeweiligen Namen als Key hat und `Pers
 3. Erstelle die Funktion `schreibe_data_json`, welche genau das Gegenteil macht.
 Sie bekommt also ein Objekt, wie es von `lese_data_json` erstellt wurde und schreibt es in eine Datei, die vom Aufbau her `Data.json` entspricht.
 
+# X. Grundlegende Nutzung von Dateien Teil 2 (10 Minuten)
+Lade dir die Datei `Namenliste.txt` herunter.
+
+Beantworte folgende Fragen darüber, OHNE DIE DATEI VON HAND AUSZULESEN (Also nur in deinem Python-Skript arbeiten).
+"Vorname" bedeutet einfach, das erste Wort des vollen Namens.
+Machs nicht zu kompliziert bitte.
+1. Wie ist die Datei aufgebaut? Was enthält sie?
+2. Welche Vornamen beginnen mit dem Buchstaben `X`?
+3. Wie viele Vornamen beginnen mit `A`?
+
+Danach:
+
+4. Sortiere die Liste alphabetisch (nach den Vornamen) und speichere sie als `NamenlisteSortiert.txt` in der gleichen Form ab.
