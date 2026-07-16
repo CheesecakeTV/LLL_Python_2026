@@ -27,9 +27,7 @@
 - Werte ändern
 
 # Sonstiges
-- Fenster mit `w.close()` schließen
 - Elemente in Variablen "ablegen"
   - Walrus-Operator
-- sg.Console
 - Template-Funktionen
 

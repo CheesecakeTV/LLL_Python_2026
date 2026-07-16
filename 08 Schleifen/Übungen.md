@@ -47,7 +47,7 @@ Diese erstellt eine partner-Liste, passend zur übergebenen Liste.
 Nutze diese Funktion, um die Liste `partner` zu erstellen (also vorhandenen Code verändern).\
 Wichtig: `getPartnerListe` ist eine reine Kalkulation.
 
-4. Erstelle die Funktion `printPartner(namenListe: list[str], partnerListe[str])`.
+4. Erstelle die Funktion `printPartner(namenListe: list[str], partnerListe: list[str])`.
 Diese gibt beide Listen so aus (print), wie in Teil `2.` beschrieben.
 Verändere den Code aus `2.` so, dass diese Funktion stattdessen genutzt wird.
 
