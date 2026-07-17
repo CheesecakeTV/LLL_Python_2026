@@ -41,6 +41,9 @@ partner = random.sample(namen, len(namen))
 Anna - Hans
 Ben - Martin
 Carla - Mira
+Hans - Carla
+Martin - Anna
+Mira - Ben
 ```
 3. Erstelle die Funktion `getPartnerListe(namenListe: list[str]) -> list[str]`.
 Diese erstellt eine partner-Liste, passend zur übergebenen Liste.
