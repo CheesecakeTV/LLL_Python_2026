@@ -37,8 +37,41 @@ print(x is y)
 Du musst dir das Verhalten nicht erklären können.
 Nimm es nur als Beispiel für Python-Magie.
 
+# 2. Dunder-Methoden (25 Minuten)
+Erstelle die Klasse "Bruch".
+Diese Klasse soll einen mathematischen Bruch darstellen, erhält bei der Übergabe also Zähler und Nenner (beide `int`).
+Wird kein Nenner übergeben, soll dieser als `1` angenommen werden.
 
-# X. Komplettes Kapitel (45 Minuten)
+Alle nötigen Formeln zu den Grundrechenarten: https://www.matheretter.de/wiki/bruche-formeln
+
+Nutze bei Bedarf gerne diese Funktion:
+```py
+def ggt(a: int, b: int) -> int:
+    """Gibt den größten gemeinsamen Teiler der übergebenen Zahlen zurück (Euklidischer Algorithmus)"""
+    if not b:
+        return a
+
+    return ggt(b, a % b)
+```
+
+1. Brüche sollen sinnvoll auf die Konsole ausgegeben werden können: `print(mein_bruch)`
+2. Beim Erstellen eines Bruchs soll dieser so weit wie möglich gekürzt werden. Das hilft dir bei folgenden Teilaufgaben, also behalte es im Hinterkopf.
+3. Es soll möglich sein, Brüche in `int` und `float` umzuwandeln: `float(mein_bruch)`
+4. Brüche sollen miteinander addiert, subtrahiert, multipliziert und dividiert werden können.
+5. Zähler und Nenner sollen auslesbar, aber nicht beschreibbar sein:\
+`print(mein_bruch.zahler)` ist ok, aber `mein_bruch.zahler = 5` wirft einen `AttributeError`.
+6. Erstellt man einen Bruch, indem man dem Zähler einen Bruch übergibt, wird dieser Bruch kopiert und zurückgegeben (Nenner muss dann leer bleiben!):\
+`print(Bruch(mein_bruch))` gibt das gleiche aus wie `print(mein_bruch)`.
+7. Die in `4.` erstellten Operationen sollen auch mit `int` direkt funktionieren, solange die Zahl hinter dem Bruch steht:
+`mein_bruch + 5`, `mein_bruch * 3`.
+8. Steht die Zahl vor dem Bruch, wird der Bruch als `float` interpretiert:
+`15 + mein_bruch` könnte z.B. `17.6` ergeben.
+9. (Knobelaufgabe) Erstelle die Funktion `float_to_bruch(x: float) -> Bruch`.
+Diese wandelt eine Zahl in einen Bruch um.
+Nutze `x = round(x, 10)`, um die Zahl x auf 10 Nachkommastellen zu runden.
+Diese Genauigkeit ist ausreichend.
+
+# X. Praxisbeispiel (45 Minuten)
 In dieser Übung erstellst du Klassen, die ich so, oder so ähnlich selbst erstellt habe und häufig nutze.
 Da es für dich vermutlich noch etwas ungewohnt ist, etwas von diesem Umfang zu programmieren, führen dich die einzelnen Aufgabenpunkte dort durch.
 

@@ -25,15 +25,18 @@
   - call
 - Einige Dunder-Attribute
   - name
-- Übung 1 Teil 1
+
+# Property
+- Property
+  - Getter, setter
+- Variablennamen beginnend mit Unterstrich
+- Übung 2
 
 # Vererbung
 - "Abweichender Bauplan"
 - Motivation: `.append` bei Listen soll die Liste selbst zurückgeben
 - super
-- Übung 1 Teil 2
+- Freiwillig Übung X (Wird nicht im Kurs besprochen)
 
-# Sonstiges
-- Property
-  - Getter, setter
+
 
