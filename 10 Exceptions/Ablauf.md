@@ -8,6 +8,8 @@
     - Warum man nicht alle Exceptions catchen sollte
   - Mehrere Exceptions auf einmal (Verschiedene Klassen angeben)
   - Mehrere except-blöcke
+- else
+  - Wo ist der Unterschied dazu, es in try... zu schreiben?
 - finally
   - Warum sollte man das überhaupt verwenden?
 - Übung 1

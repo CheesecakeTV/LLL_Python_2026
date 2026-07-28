@@ -24,8 +24,9 @@
 - Typehinting
 - frozen, slots
 - dataclasses.replace
+  - Funktionen sollten möglichst wenig von der Struktur wissen müssen
 - dataclasses.asdict
-- Übung 2 (Existiert noch nicht)
+- Übung 2
 
 
 
