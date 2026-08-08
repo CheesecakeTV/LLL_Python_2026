@@ -11,7 +11,8 @@ Der Kurs findet jeden Donnerstag um 20:00 Uhr statt.
 
 Beginn ist am 21.05.2026.
 
-# FAQ 
+# FAQ (Aktualisiert am 08.08.2026)
+
 Ich halte den Kurs jetzt zum 5. Mal.
 Mit der Zeit wurden mir einige Fragen immer wieder gestellt, daher beantworte ich diese hier mal präventiv.
 Scheu dich aber bitte trotzdem nicht, mir Fragen zum Kurs zu stellen.
@@ -21,6 +22,11 @@ Wie kann ich am Kurs teilnehmen?
 
 Ist eine Anmeldung erforderlich?
 > Nein, hilft mir aber enorm dabei, die Themen auszulegen.
+
+Kann ich noch einsteigen?
+> Ja, mach einfach mit.
+> Bedenke nur, dass der Kurs bereits begonnen hat.
+> Du hast also einige Themen verpasst.
 
 Gibt es am Ende des Kurses ein Zertifikat?
 > Der Kurs ist nur inoffiziell mit der Hochschule verbunden, daher können wir leider kein offizielles Zertifikat ausstellen.
@@ -32,15 +38,14 @@ Wie wird der Kurs stattfinden? Auf Twitch?
 
 Findet der Kurs jede Woche statt?
 > Ja, immer am gleichen Termin.
-> Falls es mal ausfällt, wird das frühzeitig auf Discord bekannt gegeben.
+> Falls es mal ausfällt, wird das frühzeitig über Discord bekannt gegeben.
 
 Wie lange dauert eine Kurseinheit?
 > 90 Minuten.
 
 Wird der Kurs aufgezeichnet?
-> Ja, aber nur ich bin dabei zu hören.
-> Deine Stimme wirst also nicht aufgezeichnet.
-> Es ist jedoch möglich, dass ich dich mit deinem Discord-Pseudonym anspreche, was dann natürlich auf der Aufnahme zu hören ist.
+> Ja.
+> Seit kurzem wird auch deine Stimme dabei aufgezeichnet.
 
 Wo finde ich die Aufnahmen?
 > Die jeweilige Aufnahme wird nicht gelistet auf YouTube "veröffentlicht".
@@ -60,21 +65,20 @@ Wie viele Kurseinheiten gibt es?
 > Natürlich zwingt dich niemand, bis zum Ende mitzumachen.
 
 Muss ich vor-/nachbereiten?
-> Es gibt keine "Hausaufgaben".
-> Allerdings sind besonders die Themen am Anfang unglaublich wichtig.
-> Wenn du ein Thema so gar nicht verstehst, oder verpasst hast, solltest du es definitiv nachbereiten, um den Anschluss nicht zu verlieren.
-> Scheu dich also nicht, nach der Aufzeichnung zu fragen.
+> Jein.
+> Da es sich wiederholt gewünscht wurde, gibt es inzwischen sowas wie Hausaufgaben.
+> Bis zur nächsten Einheit hast du die Gelegenheit, mir freiwillig deine Lösung zuzusenden. 
+> Ich gebe dir dann konkretes Feedback zu deiner Abgabe.
 
 Gibt es Übungen?
-> Ja.
-> Die Übungen werden während des Kurses bearbeitet und nachher die Lösung besprochen.
+> Ja, zum Teil während der Vorlesung/Einheit, zum Teil als "Hausaufgabe".
 
 Gibt es Lösungen zu den Übungen?
-> Die Lösung wird nach der Bearbeitungszeit im Kurs erstellt und hier im GitHub veröffentlicht.
+> Die Lösung wird in der Vorlesung erstellt und hier im GitHub veröffentlicht.
 > Aber keine Garantie, dass jede Übung eine Lösung hat.
 
 Muss ich im Kurs mitarbeiten?
-> Es wird natürlich niemand gezwungen, aber die Antwort lautet trotzdem "ja".
+> Es wird natürlich niemand gezwungen, aber die Antwort lautet trotzdem: "ja".
 > Programmieren lernt man nur durchs Programmieren.
 > Wenn du nichmal versuchst, mitzumachen, kannst du es eigentlich gleich komplett lassen.
 
@@ -90,11 +94,12 @@ Wieso sollte man so einen Kurs besuchen, obwohl es online sehr viele Ressourcen 
 > Das hat mehrere Gründe.
 > 1. Der Kurs ist kohärent. Wenn du ein Thema lernst, beherrscht du bereits die nötigen Grundlagen dafür.
 > 2. Der Kurs deckt viele wichtige Themen ab, die man im Selbststudium nicht so einfach findet.
+> 3. Der Kurs behandelt auch Themen, die mit allgemeiner Codequalität zutun haben, was für mittel-/ und große Projekte wichtig ist.
 > Es gibt viele Themen, die als fortgeschritten gelten, obwohl sie eigentlich zu den Grundlagen gehören sollten.
 > Obwohl sie so essentiell sind, findet man sie online meist nicht, ohne konkret danach zu suchen.
 
 Welche Qualifikation hast du, um den Kurs zu halten?
-> Ich habe Python an der Uni gelernt (Hatte von allen die höchste Punktzahl im Kurs) und seitdem sehr viel Erfahrung darin gesammelt.
+> Ich habe Python ursprünglich an der Uni gelernt (Hatte von allen die höchste Punktzahl im Kurs) und seitdem sehr viel Erfahrung darin gesammelt.
 > Auf der Arbeit programmiere ich viele Hilfsprogramme, die auch von den Kollegen genutzt werden.
 > Hobbymäßig entwickle ich seit einem knappen Jahr eine große Python-Bibliothek, die ich bereits in fast allen meiner neuen Programme nutze.
 > Neben Python beherrsche ich die Grundlagen etlicher anderer Sprachen.
