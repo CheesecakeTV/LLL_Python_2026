@@ -50,6 +50,9 @@ def ggt(a: int, b: int) -> int:
     """Gibt den größten gemeinsamen Teiler der übergebenen Zahlen zurück (Euklidischer Algorithmus)"""
     if not b:
         return a
+    
+    if b > a:
+        return ggt(b, a)
 
     return ggt(b, a % b)
 ```
@@ -60,7 +63,7 @@ def ggt(a: int, b: int) -> int:
 4. Brüche sollen miteinander addiert, subtrahiert, multipliziert und dividiert werden können.
 5. Zähler und Nenner sollen auslesbar, aber nicht beschreibbar sein:\
 `print(mein_bruch.zahler)` ist ok, aber `mein_bruch.zahler = 5` wirft einen `AttributeError`.
-6. Erstellt man einen Bruch, indem man dem Zähler einen Bruch übergibt, wird dieser Bruch kopiert und zurückgegeben (Nenner muss dann leer bleiben!):\
+6. Erstellt man einen Bruch, indem man dem Zähler einen Bruch übergibt, wird dieser Bruch kopiert und zurückgegeben (Nenner muss bei der Übergabe leer sein!):\
 `print(Bruch(mein_bruch))` gibt das gleiche aus wie `print(mein_bruch)`.
 7. Die in `4.` erstellten Operationen sollen auch mit `int` direkt funktionieren, solange die Zahl hinter dem Bruch steht:
 `mein_bruch + 5`, `mein_bruch * 3`.
@@ -72,11 +75,11 @@ Nutze `x = round(x, 10)`, um die Zahl x auf 10 Nachkommastellen zu runden.
 Diese Genauigkeit ist ausreichend.
 
 # X. Praxisbeispiel (45 Minuten)
-In dieser Übung erstellst du Klassen, die ich so, oder so ähnlich selbst erstellt habe und häufig nutze.
+In dieser Übung erstellst du Klassen, die ich so ähnlich selbst erstellt habe und häufig nutze.
 Da es für dich vermutlich noch etwas ungewohnt ist, etwas von diesem Umfang zu programmieren, führen dich die einzelnen Aufgabenpunkte dort durch.
 
 Tipp:\
-Denk an den Teil mit der Funktionalen Programmierung.
+Denk an die Code-Direktiven (Aktion, Kalkulation, etc.).
 Erstelle Funktionen/Methoden so, dass sie abstrakt nutzbar sind.
 
 Ziel ist es, eine Dictionary zu erstellen, was seine Daten automatisch in einer Datei speichert:
@@ -94,13 +97,13 @@ print(my_file["Hallo"])   # Aus Datei gelesen
 ## Teil 1. Klassen allgemein (35 Minuten):
 Folge diesem Ablauf:
 1. Erstelle die Klasse `DictFile`.
-Beim erstellen der Instanz wird ein Dateipfad übergeben, der als Attribut gespeichert wird.
+Beim Erstellen der Instanz wird ein Dateipfad übergeben, der als Attribut gespeichert wird.
 Es soll möglich sein, den Pfad als String, oder als `Path` zu übergeben.
 2. Alle Überordner des übergebenen Dateipfads sollen automatisch erstellt werden.
 3. Implementiere `__getitem__`, `__setitem__` und `__delitem__`.
 In der Datei muss noch nicht gespeichert werden.
 4. Implementiere `__str__`.
-Diese Methode soll alle Werte als ein großer String zurückgeben, so als ob man ein Dictionary auf der Konsole ausgibt.
+Diese Methode soll alle Werte als einen großen String zurückgeben, so als ob man ein Dictionary auf der Konsole ausgibt.
 Das hilft dir im Folgenden ungemein beim Testen.
 5. Implementiere die STATISCHE Methode `_save(save_to: Path, data: dict) -> None`. 
 Diese speichert das übergebene Dictionary unter dem angegebenen Pfad.
@@ -120,7 +123,7 @@ Diese speichert die aktuellen Werte in einer separaten Datei.
 Diese läd im Backup gespeicherte Werte, so wie es `load()` tut.
 
 ## Teil 2. Vererbung (10 Minuten)
-Anstatt json zum speichern zu nutzen, sollen es Varianten deiner Klasse geben, die als `toml` und `pickle` abspeichern können.
+Anstatt als json abzuspeichern, sollen es Varianten deiner Klasse geben, die als `toml` und `pickle` abspeichern können.
 
 Nutze diese Bibliothek für `toml`: https://pypi.org/project/tomlkit/
 
@@ -130,8 +133,8 @@ Die lässt sich quasi genauso nutzen wie `json`:
 `pickle` genauso, aber achtung: `pickle.dumps` gibt keinen string, sondern bytes zurück.
 Entsprechend erwartet `pickle.loads` auch bytes.
 
-1. Implementiere `DictFileToml`.
-2. Implementiere `DictFilePickle`.
+1. Implementiere die Klasse `DictFileToml`.
+2. Implementiere die Klasse `DictFilePickle`.
 
 
 
