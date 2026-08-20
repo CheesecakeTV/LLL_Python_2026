@@ -7,6 +7,7 @@
   - TabFrame
 
 # Global Options
+- update
 - Verschiedene Optionen verschiedener Elemente
   - Textgröße
   - Farben
@@ -37,9 +38,17 @@
 
 # Komplexere Elemente
 ## Listbox
+- value, index
+- append
 
 ## Table
+- value, index
 - Zeile bearbeiten
+- Mehrfachauswahl
+  - all_indexes
+- sort
+- filter
 
-## Console
+
+
 
