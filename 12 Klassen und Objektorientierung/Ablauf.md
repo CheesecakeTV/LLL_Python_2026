@@ -32,6 +32,8 @@
 - Variablennamen beginnend mit Unterstrich
 - Übung 2
 
+- *Stand 20.08.2026, Einheit 13*
+
 # Vererbung
 - "Abweichender Bauplan"
 - Motivation: `.append` bei Listen soll die Liste selbst zurückgeben
