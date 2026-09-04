@@ -51,6 +51,8 @@ def ggt(a: int, b: int) -> int:
     if not b:
         return a
     
+    a, b = abs(a), abs(b)
+    
     if b > a:
         return ggt(b, a)
 
