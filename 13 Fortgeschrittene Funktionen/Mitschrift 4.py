@@ -1,6 +1,5 @@
 from typing import Callable
 from functools import wraps
-from SwiftGUI import BaseElement
 
 def oberDecorator(ubergabe: str):
     def decorator(fkt: Callable):
