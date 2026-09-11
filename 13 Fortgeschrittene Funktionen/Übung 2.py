@@ -28,6 +28,21 @@ def zipGen(obj1: Iterable, obj2: Iterable) -> Generator[tuple[Any, Any], None, N
         except StopIteration:
             return
 
+def zipGenUnendlichIterables(*objects: Iterable) -> Generator[tuple[Any, ...], None, None]:
+    """Klon von Zip, lässt aber unendlich viele Iterables zu"""
+    objects = tuple(map(iter, objects))
+    len_objects = len(objects)
+
+    while True:
+        next_vals = tuple(map(next, objects))   # Interessanter Mechanismus: Wirft next(...) hier StopIteration, denkt map es sei fertig.
+                                                # Die Exception "erreicht" diesen aufrufenden Code also gar nicht.
+                                                # Daher lässt sich hier nicht try...except nutzen.
+
+        if len(next_vals) != len_objects:
+            return
+
+        yield next_vals
+
 def enumerateZipGen(obj1: Iterable, obj2: Iterable) -> Generator[tuple[int, tuple[Any, Any]]]:
     #yield from enumerateGen(zipGen(obj1, obj2))
     return enumerateGen(zipGen(obj1, obj2))
@@ -35,10 +50,7 @@ def enumerateZipGen(obj1: Iterable, obj2: Iterable) -> Generator[tuple[int, tupl
 x = [1,2,3,4]
 y = [5,6,7,8,9,10]
 
-for index, (n, i) in enumerateZipGen(x, y):
-    print(index, n, i)
+for a, b in zipGenUnendlichIterables(x, y):
+    print(a, b)
 
-x = filterGen(lambda a: a % 2 != 0, x)
-
-print(list(x))
 
