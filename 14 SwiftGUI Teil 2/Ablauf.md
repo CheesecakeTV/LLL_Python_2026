@@ -1,10 +1,14 @@
 
-- Lange Tracebacks lesen (überfällig)
 
-# Events
-- Wiederholung: Keyed events und Key-functions
+# Wiederholungen
+- Lange Tracebacks lesen
+- Keyed events und Key-functions
+- Beispiele zu key-functions
+  - Anderes Element über Key beschreiben
+- .update
 - Hotkeys
   - Mit `sg.Event` arbeiten
+- Farben, width und height von Elementen
 
 # Große Layouts
 - Frame
@@ -12,7 +16,21 @@
 - Separator
 - Notebook
   - TabFrame
-  - Events an Tabs
+- Übung 1
+
+# Komplexere Elemente
+## Listbox
+- value, index
+- append
+
+## Table
+- value, index
+- append, extend, insert
+- Zeile bearbeiten
+- Mehrfachauswahl
+  - all_indexes
+- sort
+- filter
 
 # Global Options, Themes
 - Motivation
@@ -28,20 +46,6 @@
 - Eigene Themes entwerfen
   - Four Colors Themes
 - Übung 2 (Sehr optional)
-
-# Komplexere Elemente
-## Listbox
-- value, index
-- append
-
-## Table
-- value, index
-- append, extend, insert
-- Zeile bearbeiten
-- Mehrfachauswahl
-  - all_indexes
-- sort
-- filter
 
 # Popups
 - Motivation
@@ -59,7 +63,9 @@
 - key, key_function, default_event
 - throw_event, throw_default_event, _event_callback
 - init_window_creation_done
+- template für Combined Elements
 - Als Popup
+- Übung 4
 
 # Files
 - Werte eines Layouts "sammeln"
