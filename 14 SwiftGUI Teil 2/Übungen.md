@@ -19,10 +19,16 @@ Um auch das zu berücksichtigen, teste es mit Folgendem:
 sg.Examples.preview_all_elements(flip_disabled=True, flip_readonly=True)
 ```
 
-
 # 3. Popups
-... folgt
+In dieser Übung erstellst du ein Popup, in welchem Elemente einer Liste ausgewählt werden können.
 
+Oben steht ein konfigurierbarer Text, in der Mitte jeweils eine Checkbox pro Option, darunter ein Knopf "Fertig":\
+![](../assets/images/2026-09-16-16-58-57.png)
+
+Beim Aufrufen des Popups wird eine Liste (`tuple`) mit Optionen übergeben.
+Wird "Fertig" angeklickt, schließt sich das Popup und ein `tuple` mit ausgewählten Optionen wird zurückgegeben.
+
+Wird das Popup-Fenster direkt geschlossen (über das x oben rechts), wird ein leeres Tuple zurückgegeben.
 
 # 4. Combined Elements
 In dieser Übung erstellst du ein combined Element, das es dem Nutzer ermöglicht, eine Farbe zu erzeugen:\

@@ -56,6 +56,9 @@
 - event_loop
 - Blocking Popups
 - "Rückgabe"
+  - Standard-Rückgabe
+- Typed Popups
+- Übung 3
 
 # Combined elements
 - Motivation
